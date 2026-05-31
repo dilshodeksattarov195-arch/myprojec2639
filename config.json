@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercecrypt",
+        "uuid": 445991,
+        "checksum": "0ap0yq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
